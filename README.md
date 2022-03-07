@@ -1,5 +1,5 @@
 
-## Hi there👋 , I'm İlayda
+## Hi there👋  I'm İlayda
 
 🔭I’m currently working on Fullstack Development</br></br>👩‍💻 I’m currently learning C# ,Javascript, Html,Css, Sql </br></br>⚡ Fun fact: I love social media and  I'm blogging.</br></br>
 
