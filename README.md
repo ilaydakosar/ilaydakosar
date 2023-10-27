@@ -1,7 +1,7 @@
 
 ## Hi there👋  I'm İlayda
 
-🔭I’m currently working on Fullstack Development</br></br>👩‍💻 I’m currently learning C# ,Javascript, Html,Css, Sql </br></br>⚡ Fun fact: I love social media and  I'm blogging.</br></br>
+🔭I’m currently working on Fullstack Development</br></br>👩‍💻 I’m currently learning C# , Javascript, Docker, .NETCORE, PostgreSql, Sql </br></br>⚡ Fun fact: I love social media and  I'm blogging.</br></br>
 
 ## 💬 Social Media & Contact with Me
 <p align="center">
@@ -24,13 +24,13 @@
 
 ## ⚙️ Languages & Tools 
 
-|Html|Css|C#|Javascript|Typescript|Bootstrap
+|Html|Css|C#|Javascript|Angular|Bootstrap
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|<img style="width: 100px" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif">|<img style="width: 100px" src="https://media.giphy.com/media/CEHtFH3rJ6xdhBUKIT/giphy.gif">|<img style="width: 100px" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/622ca052071761.59034e74abb36.gif">|<img style="width: 100px" src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif">|<img style="width: 100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png">|<img style="width: 100px" src="https://getbootstrap.com/docs/4.6/assets/brand/bootstrap-social-logo.png">|
+|<img style="width: 100px" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif">|<img style="width: 100px" src="https://media.giphy.com/media/CEHtFH3rJ6xdhBUKIT/giphy.gif">|<img style="width: 100px" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/622ca052071761.59034e74abb36.gif">|<img style="width: 100px" src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif">|<img style="width: 100px" src="https://media.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif">|<img style="width: 100px" src="https://getbootstrap.com/docs/4.6/assets/brand/bootstrap-social-logo.png">|
 
-|Wordpress|SQL|Git|Github|VS Code|PHP
+|Wordpress|SQL|Git|Github|VS Code|Docker
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|<img style="width: 100px" src="https://media2.giphy.com/media/jTqfCm1C0BV5fFAYvT/200w.gif?cid=82a1493bcsxifsduha2yt3xs2ab79nots4hblc9i3v3335v5&rid=200w.gif&ct=g">|<img style="width: 100px" src="https://media1.giphy.com/media/EK5nB6wQKKN86j7GWx/giphy.gif?cid=790b76113fd65a9386daf6b2bd86487884627fdfdf1a597a&rid=giphy.gif&ct=s">|<img style="width: 100px" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif">|<img style="width: 100px" src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif">|<img style="width: 100px" src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif">|<img style="width: 100px" src="https://media1.giphy.com/media/JqDcpPX8vWahUny0pE/giphy.gif?cid=790b761161ff3baa950f722c70f4bf99c0e0adef7ab15f94&rid=giphy.gif&ct=s">|
+|<img style="width: 100px" src="https://media2.giphy.com/media/jTqfCm1C0BV5fFAYvT/200w.gif?cid=82a1493bcsxifsduha2yt3xs2ab79nots4hblc9i3v3335v5&rid=200w.gif&ct=g">|<img style="width: 100px" src="https://media1.giphy.com/media/EK5nB6wQKKN86j7GWx/giphy.gif?cid=790b76113fd65a9386daf6b2bd86487884627fdfdf1a597a&rid=giphy.gif&ct=s">|<img style="width: 100px" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif">|<img style="width: 100px" src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif">|<img style="width: 100px" src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif">|<img style="width: 100px" src="https://media.tenor.com/z3Vqx6hmE5QAAAAC/whale-docker.gif">|
 </br>
 
 
